@@ -1,0 +1,43 @@
+body
+{
+	background-color: #666;
+}
+
+.container
+{
+	background-color: #888;
+}
+
+.table 
+{
+	width: 500px;
+	color: #ff0;
+	background-color: #00b;
+	border: #f00 solid 5px;
+}
+
+caption
+{
+	color: #ff0;
+}
+
+form
+{
+	width: 400px;
+	color: #ff0;
+	background-color: #444;
+	padding: 10px;
+	border: #f00 solid 5px;
+}
+
+
+
+.navbar-brand
+{
+	color: aqua;
+}
+.navbar-brand:hover
+{
+	color: yellow;
+	background-color: #000;
+}

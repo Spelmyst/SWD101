@@ -1,0 +1,16 @@
+html
+{
+	color: #ff0;
+	background-color: #008;
+}
+
+body
+{
+	border: 1px solid red;
+	width: 300px;
+}
+
+.input
+{
+	color: red;
+}

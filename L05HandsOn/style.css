@@ -1,0 +1,25 @@
+*				
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	justify-content: center;
+}
+  
+.img_container 
+{
+	color: yellow;
+	background-color: #008;
+	width: 500px;
+	height: 500px;
+	display: flex;
+	padding: 20px;
+}
+
+.img_grid
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
